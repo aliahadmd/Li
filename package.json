@@ -1,6 +1,6 @@
 {
-  "name": "litheme",
-  "displayName": "Li Theme",
+  "name": "li",
+  "displayName": "Li",
   "description": "PyCharm and vscode community theme inspired dark theme with icons and JetBrains Mono font",
   "version": "0.0.1",
   "license": "MIT",
@@ -37,7 +37,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Li Theme",
+        "label": "Li",
         "uiTheme": "vs-dark",
         "path": "./themes/litheme.json"
       }
@@ -45,7 +45,7 @@
     "iconThemes": [
       {
         "id": "liicon",
-        "label": "Li Theme",
+        "label": "Li",
         "path": "./themes/liicon.json"
       }
     ]
