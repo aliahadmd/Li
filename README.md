@@ -8,3 +8,11 @@ This theme is inspired by Jetbrains IDE and some opensource vscode theme!
 It is recommended to use [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font with the this Theme.
 
 
+## Screenshot
+
+![Li Theme](img/djtemplate.png)
+![Li Theme](img/djviews.png)
+
+
+
+
