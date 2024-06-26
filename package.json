@@ -1,0 +1,53 @@
+{
+  "name": "litheme",
+  "displayName": "Li Theme",
+  "description": "PyCharm and vscode community theme inspired dark theme with icons and JetBrains Mono font",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "TheAliAhad",
+  "repository": "https://github.com/aliahadmd/litheme",
+  "icon": "img/icon.png",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "python",
+    "semantic",
+    "highlighting",
+    "cold",
+    "dark",
+    "darcula",
+    "darkula",
+    "dracula",
+    "drakula",
+    "pycharm",
+    "IntelliJ",
+    "New UI",
+    "icons",
+    "JetBrains",
+    "JetBrains Mono",
+    "PyCharm",
+    "font",
+    "Javascript",
+    "TypeScript"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Li Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/litheme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "liicon",
+        "label": "Li Theme",
+        "path": "./themes/liicon.json"
+      }
+    ]
+  }
+}
