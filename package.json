@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "publisher": "TheAliAhad",
-  "repository": "https://github.com/aliahadmd/litheme",
+  "repository": "https://github.com/aliahadmd/li",
   "icon": "img/icon.png",
   "engines": {
     "vscode": "^1.21.0"
